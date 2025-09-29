@@ -10,10 +10,10 @@ const Footer = () => {
           <div className="md:col-span-1">
             <div className="flex items-center space-x-2 mb-4">
               <Building className="h-8 w-8 text-blue-400" />
-              <span className="font-bold text-xl">Corretaje Premium</span>
+              <span className="font-bold text-xl">Urbis Propiedades</span>
             </div>
             <p className="text-gray-300 mb-4 leading-relaxed">
-              Una empresa pequeña pero un Gran Servicio. Especialistas en bienes raíces 
+              Pequeña Empresa, Gran Servicio. Especialistas en bienes raíces 
               con atención personalizada y resultados excepcionales.
             </p>
             <div className="flex space-x-4">
@@ -92,12 +92,12 @@ const Footer = () => {
                 <span className="text-gray-300">+56 9 1234 5678</span>
               </div>
               <div className="flex items-center space-x-3">
-                <Mail className="h-5 w-5 text-blue-400 flex-shrink-0" />
-                <span className="text-gray-300">contacto@corretajepremium.cl</span>
+                <Mail className="h-5 w-5 text-green-400 flex-shrink-0" />
+                <span className="text-gray-300">urbisrealtor@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5 text-blue-400 flex-shrink-0" />
-                <span className="text-gray-300">Santiago, Chile</span>
+                <span className="text-gray-300">Region de Valparaiso, Chile</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Clock className="h-5 w-5 text-blue-400 flex-shrink-0" />
@@ -109,7 +109,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © 2025 Corretaje Premium. Todos los derechos reservados.
+            © 2025 Urbis Propiedades. Todos los derechos reservados.
           </p>
         </div>
       </div>
