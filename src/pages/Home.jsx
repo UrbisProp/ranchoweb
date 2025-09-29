@@ -40,13 +40,13 @@ const Home = () => {
 
   const testimonials = [
     {
-      name: 'María González',
-      text: 'Excelente servicio personalizado. Me ayudaron a encontrar la casa perfecta para mi familia.',
+      name: 'María Gladys Rivera',
+      text: 'Excelente servicio personalizado. Me ayudaron a encontrar la casa perfecta para mi familia. Un trato personal que revela compromiso',
       rating: 5
     },
     {
       name: 'Carlos Rodríguez',
-      text: 'Profesionales confiables. La administración de mi propiedad ha sido impecable.',
+      text: 'Profesionales confiables. La administración de mi propiedad ha sido impecable. Estan continuamente preocupados de los detalles que a uno a veces se le olvidan',
       rating: 5
     },
     {
@@ -62,7 +62,7 @@ const Home = () => {
     'Conocimiento profundo del mercado local',
     'Transparencia en todos los procesos',
     'Seguimiento continuo post-venta',
-    'Asesoría legal y financiera incluida'
+    
   ]
 
   return (
