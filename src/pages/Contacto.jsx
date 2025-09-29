@@ -103,8 +103,8 @@ const Contacto = () => {
   ]
 
   const ubicaciones = [
-    'Las Condes', 'Providencia', 'Vitacura', 'Ñuñoa', 'Santiago Centro',
-    'La Reina', 'Macul', 'San Miguel', 'Maipú', 'Viña del Mar',
+    'Valparaiso', 'Viña del Mar', 'Quilpue', 'Villa Alemana', 'Santiago Centro',
+    'La Reina', 'Macul', 'San Miguel', 'Maipú', 'Limache',
     'Valparaíso', 'Concón', 'Reñaca'
   ]
 
@@ -143,14 +143,14 @@ const Contacto = () => {
                   <Mail className="h-5 w-5 text-orange-600 flex-shrink-0" />
                   <div>
                     <p className="font-medium">Email</p>
-                    <p className="text-gray-600">contacto@corretajepremium.cl</p>
+                    <p className="text-gray-600">urbisrealtor@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
                   <MapPin className="h-5 w-5 text-orange-600 flex-shrink-0" />
                   <div>
                     <p className="font-medium">Dirección</p>
-                    <p className="text-gray-600">Av. Providencia 1234, Oficina 567<br />Providencia, Santiago</p>
+                    <p className="text-gray-600">Santa Ana 835 <br/>Villa Alemana, Region de Valparaiso</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
